@@ -38,7 +38,7 @@ class ClassUnitScreen extends StatelessWidget {
                   text: "Unit 4️⃣",
                 ),
                 Tab(
-                  text: "Unit 4️⃣",
+                  text: "iUnit 4️⃣",
                 ),
               ]),
         ),
