@@ -23,6 +23,18 @@ dependencies:
   flutter_bloc:
   drop_shadow: ^0.1.0
   shared_preferences: ^2.2.2
+  youtube_player_flutter: 
+  flutter_inappwebview: 
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.6.9
+  dash_chat_2: ^0.0.20
+  firebase_analytics: ^10.8.9
+  delightful_toast: ^1.1.0
+  get_it: ^7.6.7
+  image_picker: ^1.0.8
+  path: ^1.8.3
 
 dev_dependencies:
   flutter_test:
